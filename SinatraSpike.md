@@ -19,3 +19,5 @@ https://github.com/mikekauffman/sinatra_spike
 https://github.com/rachellogie/sinatra_spike
 
 https://github.com/pwenig/sinatra_spikes
+
+https://github.com/stevepm/sinatra_spike
