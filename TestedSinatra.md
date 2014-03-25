@@ -23,3 +23,5 @@ https://github.com/seishingithub/tdd_sinatra
 https://github.com/EvanTedesco/tdd_sinatra
 
 https://github.com/SethMusulin/tdd_sinatra
+
+https://github.com/deitrick/testing_sinatra
