@@ -9,3 +9,7 @@ https://github.com/BlueVajra/sinatra_test
 https://github.com/JennyAllar/tdd_sinatra
 
 https://github.com/simplyaubs/tdd_sinatra
+
+https://github.com/kclowes/tdd_sinatra
+
+Gerard and Lori: https://github.com/lmoehn/tdd_sinatra
