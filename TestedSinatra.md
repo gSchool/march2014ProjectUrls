@@ -17,3 +17,5 @@ Gerard and Lori: https://github.com/lmoehn/tdd_sinatra
 https://github.com/zbunde/sinatra_test
 
 https://github.com/gusk/tdd_sinatra.git
+
+https://github.com/EvanTedesco/tdd_sinatra
