@@ -19,3 +19,7 @@ https://github.com/zbunde/sinatra_test
 https://github.com/gusk/tdd_sinatra.git
 
 https://github.com/seishingithub/tdd_sinatra
+
+https://github.com/EvanTedesco/tdd_sinatra
+
+https://github.com/SethMusulin/tdd_sinatra
