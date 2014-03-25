@@ -22,8 +22,4 @@ https://github.com/pwenig/sinatra_spikes
 
 https://github.com/kclowes/sinatra_practice
 
-https://github.com/JennyAllar/SinatraTest
-
 https://github.com/stevepm/sinatra_spike
-
-https://github.com/zbunde/sinatra_test
