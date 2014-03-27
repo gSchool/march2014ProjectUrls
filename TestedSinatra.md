@@ -18,6 +18,9 @@ https://github.com/zbunde/sinatra_test
 
 https://github.com/gusk/tdd_sinatra.git
 
+<<<<<<< HEAD
+Evan and Mike: https://github.com/evantedesco/tdd_sinatra.git
+=======
 https://github.com/seishingithub/tdd_sinatra
 
 https://github.com/EvanTedesco/tdd_sinatra
@@ -25,3 +28,4 @@ https://github.com/EvanTedesco/tdd_sinatra
 https://github.com/SethMusulin/tdd_sinatra
 
 https://github.com/deitrick/testing_sinatra
+>>>>>>> upstream/master
