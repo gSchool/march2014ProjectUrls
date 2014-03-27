@@ -18,6 +18,6 @@ https://github.com/nburt/url_shortener Anchor: Nate
 
 https://github.com/SethMusulin/URL-Shortner Anchor: Seth
 
-http://github.com/gusk/url-shortener.git Anchor: Gus
+http://github.com/gusk/url-shortener Anchor: Gus
 
 https://github.com/ems2141/URL_Shortener Anchor: Ellie
