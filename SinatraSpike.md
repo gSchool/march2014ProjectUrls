@@ -23,3 +23,5 @@ https://github.com/pwenig/sinatra_spikes
 https://github.com/kclowes/sinatra_practice
 
 https://github.com/stevepm/sinatra_spike
+
+https://github.com/PositiveControl/sinatra_spike - recently deleted and restarted
