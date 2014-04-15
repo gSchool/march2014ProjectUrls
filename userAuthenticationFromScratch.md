@@ -12,3 +12,4 @@ URLs for the user authentication from scratch project:
 1. https://github.com/JennyAllar/user-authentication-from-scratch Anchor: Jenny
 1. https://github.com/pwillikins/user-authentication-from-scratch Anchor: Paul S
 1. https://github.com/EvanTedesco/user-authentication-from-scratch Anchor: Evan
+1. https://github.com/grcote/user-authentication-from-scratch Anchor: Gerard
