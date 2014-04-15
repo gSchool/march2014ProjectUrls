@@ -9,3 +9,4 @@ URLs for the user authentication from scratch project:
 1. https://github.com/nburt/user-authentication-from-scratch Anchor: Nate
 1. https://github.com/mikekauffman/user-authentication-from-scratch Anchor: MikeK
 1. https://github.com/vandosant/user-authentication-from-scratch Anchor: Scott
+1. https://github.com/EvanTedesco/user-authentication-from-scratch Anchor: Evan
