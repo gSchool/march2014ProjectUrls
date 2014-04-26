@@ -10,3 +10,4 @@ Please put your github URL here:
 1. Mike Kauffman - Hoster - https://github.com/mikekauffman/hoster_rails
 1. Ellie Schneiders - Wedding RSVP App - https://github.com/ems2141/rsvp_app 
 1. Nate - https://github.com/nburt/personal_website
+2. Jenny - It's Gif, Not Jif - https://github.com/JennyAllar/gifnotjif
