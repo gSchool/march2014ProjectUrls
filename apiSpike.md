@@ -14,3 +14,4 @@ Please put your github URL here:
 1. Ellie - https://github.com/ems2141/api_spike
 1. Andrew - https://github.com/deitrick/api_spike
 1. Emily - https://github.com/craftninja/api_spike
+1. Lori - https://github.com/lmoehn/api_spike
