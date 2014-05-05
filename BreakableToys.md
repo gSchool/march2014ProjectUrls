@@ -1,7 +1,7 @@
 Please put your github URL here:
 
 1. Andrew - https://github.com/deitrick/the-firehose
-1. Gus King - Free Handi - https://github.com/gusk/golf-handicap
+1. Gus King - Handicap - https://github.com/gusk/golf-handicap
 1. Kaylee - https://github.com/KayleeRea/plan_it
 1. Scott Skender - Langua - https://github.com/vandosant/language-app
 1. Emily - https://github.com/craftninja/the_apothecary
