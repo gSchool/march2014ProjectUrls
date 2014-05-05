@@ -12,3 +12,5 @@ Please put your github URL here:
 1. Cory - https://github.com/BlueVajra/api_spike
 1. MikeK - https://github.com/mikekauffman/api_spike
 1. Ellie - https://github.com/ems2141/api_spike
+1. Andrew - https://github.com/deitrick/api_spike
+1. Emily - https://github.com/craftninja/api_spike
