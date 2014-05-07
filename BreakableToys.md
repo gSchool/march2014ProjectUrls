@@ -18,7 +18,7 @@ Please put your github URL here:
 1. Bebe - Listen to what Bebe Listens to - https://github.com/bebepeng/listen_to
 1. Gerard R. Cote - Ski Bucket - https://github.com/grcote/ski_bucket
 1. Keri Clowes - Drank - https://github.com/kclowes/drank_app
-1. Jenny - It's Gif, Not Jif - https://github.com/JennyAllar/gifnotjif
+1. Jenny - It's Gif, Not Jif - https://github.com/JennyAllar/itsgifnotjif
 1. Peggy - Camera Snapshot - https://github.com/seishingithub/camera_snapshot_app
 1. Seth Musulin - Lobb - https://github.com/SethMusulin/Lobbyist-App
 1. Paul S - https://github.com/pwillikins/projectX
