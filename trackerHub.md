@@ -9,3 +9,4 @@ Github URLs:
 1. https://github.com/seishingithub/Griffin-Evans-trackerhub - Mark and Peggy
 1. https://github.com/stevepm/trackerhub-app - Steve and Gus
 1. https://github.com/marthaberner/berner-allar-trackerhub - Martha and Jenny
+1. https://github.com/vandosant/skender-moehn-trackerhub - Lori and Scott
