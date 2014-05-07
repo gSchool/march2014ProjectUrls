@@ -8,3 +8,4 @@ Github URLs:
 1. https://github.com/nburt/burt-edmonson-trackerhub - Kaylee and Nate
 1. https://github.com/seishingithub/Griffin-Evans-trackerhub - Mark and Peggy
 1. https://github.com/stevepm/trackerhub-app - Steve and Gus
+1. https://github.com/vandosant/skender-moehn-trackerhub - Lori and Scott
