@@ -10,3 +10,4 @@ Github URLs:
 1. https://github.com/stevepm/trackerhub-app - Steve and Gus
 1. https://github.com/marthaberner/berner-allar-trackerhub - Martha and Jenny
 1. https://github.com/vandosant/skender-moehn-trackerhub - Lori and Scott
+2. https://github.com/ems2141/schneiders-platzer-trackerhub - Ellie and Emily
