@@ -8,7 +8,7 @@ Please put your github URL here:
 1. Rachel - https://github.com/rachellogie/conscious_eater
 1. Paul Wenig - Store Front - https://github.com/pwenig/gschool_project1
 1. Mike Kauffman - Hoster - https://github.com/mikekauffman/hoster_rails
-1. Ellie Schneiders - Wedding RSVP App - https://github.com/ems2141/rsvp_app 
+1. Ellie Schneiders - Wedding RSVP App - https://github.com/ems2141/rsvp_app, https://github.com/ems2141/table_seater 
 1. Nate - https://github.com/nburt/personal_website
 1. Nate - https://github.com/nburt/one_feed
 1. Steve - https://github.com/stevepm/salary_survey
